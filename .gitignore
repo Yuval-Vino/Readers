@@ -1,0 +1,6 @@
+# Ignore DB
+db.sqlite3
+
+.idea/
+
+*.bak
